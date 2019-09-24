@@ -12,6 +12,7 @@ export default ({ data }) => {
           css={css`
             display: inline-block;
             border-bottom: 1px solid;
+            text-align: center;
           `}
         >
           Check out some of my finished projects!
