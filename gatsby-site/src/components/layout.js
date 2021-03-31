@@ -13,6 +13,7 @@ export default ({ children }) => (
                 <h3 style={{ display: 'inline' }}>Max's Space</h3>
             </Link>
             <ul style={{ listStyle: 'none', float: 'right' }}>
+                <ListLink to="/">Home</ListLink>
                 <ListLink to="/contact/">Contact</ListLink>
                 <ListLink to="/about/">About</ListLink>
             </ul>
