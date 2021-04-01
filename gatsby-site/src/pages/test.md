@@ -1,8 +1,9 @@
 ---
 title: "Garage App"
-date: "5-21-2019"
+date: "2019-5-21"
+featuredImage: ../images/lady-driving-car.png
 ---
-App designed to simulate a parking garage, 
+&nbsp;&nbsp;App designed to simulate a parking garage, 
 with features such as creating managers / attendants, parking vehicles and creating tickets.
 
 https://github.com/themanselmo/Garage-App

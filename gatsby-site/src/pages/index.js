@@ -3,6 +3,7 @@ import { css } from "@emotion/core"
 import { Link, graphql } from "gatsby"
 import { rhythm } from "../utils/typography"
 import Layout from "../components/layout"
+
 export default ({ data }) => {
   console.log(data)
   return (
@@ -43,6 +44,7 @@ export default ({ data }) => {
             </h3>
             <p>{node.excerpt}</p>
               </Link>
+            
           </div>
         ))}
       </div>
@@ -64,6 +66,7 @@ export const query = graphql`
             slug
           }
           excerpt
+          
         }
       }
     }

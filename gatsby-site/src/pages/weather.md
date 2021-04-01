@@ -1,8 +1,9 @@
 ---
 title: "Weather App"
-date: "9-13-2019"
+date: "2019-9-13"
+featuredImage: ../images/female-holding-umbrella-walking-in-rain.png
 ---
-Web app designed to give the weather of a given city.
+&nbsp;&nbsp;Web app designed to give the weather of a given city.
 Built using express as the backend, postgreSQL for the database and react for the front end. 
 
 https://github.com/themanselmo/react-weather-app
