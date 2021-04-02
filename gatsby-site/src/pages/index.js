@@ -16,7 +16,7 @@ export default ({ data }) => {
             text-align: center;
           `}
         >
-          Check out some of my finished projects!
+          Check out some of my projects!
         </h1>
         
         {data.allMarkdownRemark.edges.map(({ node }) => (

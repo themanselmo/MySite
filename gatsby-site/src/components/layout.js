@@ -16,6 +16,8 @@ export default ({ children }) => (
                 <ListLink to="/">Home</ListLink>
                 <ListLink to="/contact/">Contact</ListLink>
                 <ListLink to="/about/">About</ListLink>
+                <ListLink to="https://drive.google.com/file/d/14ZeerhIgzFm0GnSCOD6XSBDWBV3dMpyk/view?usp=sharing">Resume</ListLink>
+                <ListLink to="https://github.com/themanselmo">GitHub</ListLink>
             </ul>
         </header>
         {children}

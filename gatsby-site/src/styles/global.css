@@ -1,3 +1,8 @@
 html {
     background-color:whitesmoke;
 }
+
+#list_item_row li{
+    float: left;
+    margin: 15px;
+}
