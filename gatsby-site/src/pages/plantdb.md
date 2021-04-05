@@ -9,7 +9,10 @@ date planted, male or female, etc.
 
 **_GitHub Link_**: https://github.com/themanselmo/CannabaseV2
 
+**_Heroku Link_**: https://canna-base.herokuapp.com
+
 **_Technologies Used_**:
 * React
 * PostgreSQL
+* Express
 
