@@ -6,8 +6,7 @@ export default () => (
         <img src={me} alt="yours truly"/>
         <h1>About me</h1>
         <p>
-            Developing developer, pursuing a Bachelors in Computer Science and Engineering at the 
-            University at Buffalo, and trying to save the world one bit at a time. 
+            Full Stack developer, currently enrolled in the Software Engineering Live program at Flatiron School, and trying to save the world one bit at a time. 
         </p>
         <h2>Hobbies</h2>
         <p>
